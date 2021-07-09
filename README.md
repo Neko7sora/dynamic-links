@@ -1,2 +1,0 @@
-# dynamic-links
-Cloudflare Pages
