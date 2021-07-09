@@ -34,6 +34,8 @@
 
 /mstdn https://mstdn.jp/@Neko7sora
 /pawoo https://pawoo.net/@Neko7sora
+/misskey https://misskey.io/@Neko7sora
+/misskey-co https://co.misskey.io/@Neko7sora
 
 /github https://github.com/Neko7sora
 /gitlab https://gitlab.com/Neko7sora
@@ -42,8 +44,6 @@
 
 /facebook https://www.facebook.com/NekomiyaSorato
 /instagram https://www.instagram.com/neko7sora
-/misskey https://misskey.io/@Neko7sora
-/misskey-co https://co.misskey.io/@Neko7sora
 /twitter https://twitter.com/Neko7sora
 /twitter-sub https://twitter.com/NekomiyaSorato
 
@@ -57,5 +57,9 @@
 /wikipedia https://ja.wikipedia.org/wiki/User:Neko7sora
 /fandom https://community.fandom.com/ja/wiki/User:Neko7sora
 
-/dtc https://twitter.com/DTech_Circle
+/github-io https://neko7sora.github.io
+/guthub-personal personal.github.neko7sora.jp
+
+/dtc https://twitter.com/DTechs_Circle
 /cgc https://github.com/CommentGeneratorCollection
+/cdn https://github.com/Neko7sora/Content-Delivery-Network
